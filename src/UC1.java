@@ -1,5 +1,4 @@
-public class PalindromeCheckerApp {
-
+public class UC1 {
     public static void main(String[] args) {
 
         // Display welcome message
